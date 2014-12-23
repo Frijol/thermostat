@@ -18,5 +18,6 @@ IP:port/integer will change the threshold value to the integer.
 
 1. Clone this repo
 1. `npm install` to install dependencies
+1. In `index.js`, set the wifi settings to your local network and the threshold to your preferred temperature (in F).
 1. `tessel run index.js` to test it out
 1. `tessel push index.js` to push the code into Flash memory, disconnect from the computer, and power the Tessel ([like this](https://tessel.io/docs/untethered))
