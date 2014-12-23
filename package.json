@@ -25,6 +25,8 @@
   "dependencies": {
     "climate-si7020": "^0.1.0",
     "relay-mono": "^0.1.2",
-    "tesselate": "0.0.2"
+    "tessel-wifi": "0.0.1",
+    "tesselate": "0.0.2",
+    "tiny-router": "^0.1.3"
   }
 }
